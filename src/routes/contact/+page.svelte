@@ -9,7 +9,7 @@
       </div>
     </a>
     
-    <a href="https://github.com/yourusername" class="block bg-gray-800 p-4 rounded-xl hover:bg-gray-700">
+    <a href="https://github.com/prakit1234" class="block bg-gray-800 p-4 rounded-xl hover:bg-gray-700">
       <div class="flex items-center gap-3">
         <span class="text-2xl">💻</span>
         <span>GitHub</span>
