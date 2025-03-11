@@ -2,7 +2,7 @@
   <h1 class="text-2xl font-bold mb-6">Contact</h1>
   
   <div class="space-y-4">
-    <a href="mailto:your.email@example.com" class="block bg-gray-800 p-4 rounded-xl hover:bg-gray-700">
+    <a href="mailto:prakitchetia@gmail.com" class="block bg-gray-800 p-4 rounded-xl hover:bg-gray-700">
       <div class="flex items-center gap-3">
         <span class="text-2xl">📧</span>
         <span>Email Me</span>
